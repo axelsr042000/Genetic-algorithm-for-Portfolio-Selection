@@ -7,5 +7,3 @@ This project endeavors to harness the power of genetic algorithms for the purpos
 
 1. Use the "datadownloader.py" file to download the .csv file. You can edit the dates and the symbols variable to choose your tickers.
 2. Launch the "main.cpp" file to run the algorithms. Edit the SYMBOLS variable if necessary.
-
-You also have the option to edit the number of
